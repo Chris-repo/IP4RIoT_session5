@@ -1,3 +1,8 @@
-# IP4RIoT_session5
+# Applied Python Git Tutorial #1
 
-Testing
+This tutorial is the start of learning GIT for version control
+
+## About
+
+This repo is managed by Christopher Martin
+
